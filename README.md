@@ -1,6 +1,6 @@
 # Global-Wild-Swimming-and-Camping-Website
 
-This website my second year assignment Dynamic Website with admin panel which involves CRUD operation.
+This website is my second year assignment Dynamic Website with admin panel which involves CRUD operation.
 
 It is developed using HTML, CSS, JavaScript, Bootstrap, PHP and MYSQL.
 

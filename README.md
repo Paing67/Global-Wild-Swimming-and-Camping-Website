@@ -1,5 +1,5 @@
 # Global-Wild-Swimming-and-Camping-Website
 
-Download the folder first and add sql files to phpmyadmin.
+Download the folder first and then add sql files using phpmyadmin.
 
-Then you can run the website on your machine.
+Now you can run the website on your machine.

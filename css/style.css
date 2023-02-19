@@ -1,0 +1,120 @@
+body, html {
+    height: 100%;
+}
+
+/* Header */
+.navbar{
+    background-color: #2C6159;
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar li .btn{
+    background-color:#EAE7B1;
+}
+
+.navbar li .btn:hover{
+    background-color:#61876E;
+}
+
+.navbar .btn{
+    background-color:#EAE7B1;
+}
+
+.navbar .btn:hover{
+    background-color:#61876E;
+}
+
+ul .nav-item a:hover { 
+    color:#EAE7B1 !important; 
+}
+
+#navBarSearchForm{
+    width:350px !important;
+}
+
+/* footer */
+#footer{
+    background-color: #2C6159;
+}
+
+#footer a,#footer h4,#footer li{
+    color:#d4d2cd;
+}
+
+#footer a:hover{
+    color:#EAE7B1;
+}
+
+#social{
+    font-size:50px;
+}
+
+/* contact */
+
+#contactsubmit{
+     background-color:#2C6159 !important; 
+     color:white;
+}
+
+#contactsubmit:hover{
+    background-color:#EAE7B1 !important;
+    color:black;
+}
+
+#policy{
+    color:grey;
+}
+
+#contactside{
+    background-color: #2C6159;
+}
+
+#contactside p,#contactside h4{
+    color: #d4d2cd;
+}
+
+/* Pitches */
+#pitchsearch{
+    background-color:#2C6159;
+}
+
+#pitchsearch:hover{
+    background-color:#EAE7B1;
+    color:black;
+}
+
+#pitchesviewbtn{
+    background-color:#2C6159;
+    color:white
+}
+
+#pitches .btn:hover{
+    background-color:#EAE7B1;
+    color:black;
+}
+
+/* Reviews */
+
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }
+
+/* Features */
+
+.featurette-heading{
+    margin-top: 7rem ;
+}
+
+/* Login */
+
+#loginlink{
+    background-color: #EAE7B1;
+    border-radius: 8px;
+    color: black;
+}
+
+#loginlink:hover{
+    background-color: #61876E;
+}
+
